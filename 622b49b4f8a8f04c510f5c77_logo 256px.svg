@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#E5E5E5;}
-	.st1{fill:#FFFFFF;}
-</style>
-<rect class="st0" width="256" height="256"/>
-<rect width="256" height="256"/>
-<g>
-	<path class="st1" d="M48.3,202.5l30.2-154l49.2,111.3l50.9-111.3l27.1,154h-22.2L169.7,116l-42.4,93.1l-41.2-93.1l-15.4,86.6H48.3z
-		"/>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_384_1157)">
+<path d="M256 0H0V256H256V0Z" fill="#E5E5E5"/>
+<path d="M256 0H0V256H256V0Z" fill="#242424"/>
+<path d="M20 187L85.0811 68L126.094 118.203L163.225 68L235 187L163.225 132.747L126.784 165.811L85.041 132.747L20 187Z" fill="url(#paint0_linear_384_1157)"/>
 </g>
+<defs>
+<linearGradient id="paint0_linear_384_1157" x1="128.606" y1="69.4723" x2="128.606" y2="188.472" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A78FF2"/>
+<stop offset="1" stop-color="#6237EE"/>
+</linearGradient>
+<clipPath id="clip0_384_1157">
+<rect width="256" height="256" fill="white"/>
+</clipPath>
+</defs>
 </svg>
